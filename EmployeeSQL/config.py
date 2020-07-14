@@ -1,4 +1,4 @@
 # Postgres Connection Data
-user     ='postgres'
-password ='Asd1234'
+user     ='xxxxxxxx'
+password ='xxxxxxxx'
 db_name  ='EmployeeDB'
