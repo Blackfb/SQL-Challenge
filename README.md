@@ -17,6 +17,7 @@ In this work, I designed the tables to hold data in the CSVs, import the CSVs da
 #### Data Modeling
 
 Inspected the CSVs and sketch out an ERD of the tables and using a tool at [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+
 ![](Images/ERD.png)
 
 #### Data Engineering
